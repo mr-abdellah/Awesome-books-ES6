@@ -6,7 +6,7 @@ const author = document.querySelector('#author');
 
 const addBtn = document.querySelector('#add');
 
-function addingBook() {
+const addingBook = () => {
   addBtn.addEventListener('click', () => {
     const book = new Books();
     myBooks.push(book);
@@ -14,6 +14,6 @@ function addingBook() {
     book.add(myBooks);
     Books.emptyField();
   });
-}
+};
 
 export default addingBook;

@@ -2,7 +2,7 @@ const booksContainer = document.querySelector('.books-container');
 
 const myBooks = [];
 
-function addBook(book, title, author) {
+const addBook = (book, title, author) => {
   book.title = title;
   book.author = author;
 
@@ -41,6 +41,6 @@ function addBook(book, title, author) {
   li.marginBottom = '2%';
   li.border = '2px solid black';
   deleteButton.style.marginRight = '2%';
-}
+};
 
 export { myBooks, booksContainer, addBook };

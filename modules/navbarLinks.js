@@ -1,4 +1,4 @@
-function navbarLinks() {
+const navbarLinks = () => {
   const addSection = document.querySelector('.add-book');
   const containerOfAddedBooks = document.querySelector('.container');
   const contact = document.querySelector('.contact');
@@ -27,6 +27,6 @@ function navbarLinks() {
     addSection.style.display = 'none';
     contact.style.display = 'flex';
   });
-}
+};
 
 export default navbarLinks;

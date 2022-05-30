@@ -2,8 +2,12 @@ import { myBooks, addBook } from './modules/addBookFunction.js';
 import navbarLinks from './modules/navbarLinks.js';
 import Books from './modules/bookClass.js';
 import addingBook from './modules/saveBooks.js';
+import showTime from './modules/time.js';
 
 navbarLinks();
+
+showTime();
+
 let storage = [];
 storage = JSON.parse(localStorage.getItem('books')) || [];
 

@@ -61,6 +61,13 @@ input {
   color: black;
 }
 
+.time {
+  height: 4vh;
+  width: 90%;
+  display: flex;
+  justify-content: flex-end;
+}
+
 .account p a {
   color: black;
 }
