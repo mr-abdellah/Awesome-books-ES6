@@ -1,21 +1,21 @@
 {
-  "name": "awesome-books-es6",
+  "name": "awesome-books-update-",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mr-abdellah/Awesome-books-ES6.git"
+    "url": "git+https://github.com/mr-abdellah/Awesome-Books-update-.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mr-abdellah/Awesome-books-ES6/issues"
+    "url": "https://github.com/mr-abdellah/Awesome-Books-update-/issues"
   },
-  "homepage": "https://github.com/mr-abdellah/Awesome-books-ES6#readme"
+  "homepage": "https://github.com/mr-abdellah/Awesome-Books-update-#readme"
 }
