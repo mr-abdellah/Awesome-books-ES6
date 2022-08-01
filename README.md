@@ -13,7 +13,9 @@ or
 
 ### Clone it in your local machine using GIT
 to get a local copy , clone the repository using git clone
-(https://github.com/mr-abdellah/Awesome-books-ES6.git)
+[TAP HERE](https://github.com/mr-abdellah/Awesome-books-ES6.git)
+
+##For Live Demo [Enter Here](https://mr-abdellah.github.io/Awesome-books-ES6/)
 
 > Awesome books: plain JavaScript with objects and modules
 
